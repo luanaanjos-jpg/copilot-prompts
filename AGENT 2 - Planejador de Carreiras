@@ -1,181 +1,140 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+# 📑 PRD – Roadmap de Carreira em Tecnologia (Agent 2)
 
-Carreira em Tecnologia
+═══════════════════════════════════════════════════════════════
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
-
-
-## 🎯 SUA MISSÃO
-
+## 🎯 MISSÃO
 Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+- Visão do dia a dia  
+- Mapa de skills  
+- Roadmap de 90 dias  
+- Projeto de portfólio  
+- Roteiro de entrevistas  
+- Trilha DIO  
 
+═══════════════════════════════════════════════════════════════
 
-## 📥 DADOS QUE VOCÊ RECEBE
+## 📥 DADOS RECEBIDOS DO AGENT 1
+- **CARREIRA_ESCOLHIDA:** Cientista de Dados  
+- **HORAS_SEMANA:** 3 horas  
+- **EXPERIENCIA:** Zero  
+- **OBJETIVO:** Crescimento na função atual  
+- **PREFERENCIA:** Dados  
+- **INTERESSES:** Dados e Inteligência Artificial  
+- **EXPERIÊNCIA PRÉVIA:** Gerenciamento e mapeamento de processos  
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+═══════════════════════════════════════════════════════════════
 
+## 📦 PLANO COMPLETO
 
-## 🎬 INICIAR CONVERSA
+### 🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Cientista de Dados:
+- Coletar e organizar dados de diferentes fontes  
+- Limpar e preparar dados para análise  
+- Criar modelos estatísticos e de machine learning  
+- Interpretar resultados e gerar insights acionáveis  
+- Comunicar descobertas para áreas de negócio  
 
-"Olá! Recebi suas informações do entrevistador. 
+---
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+### 🧠 MAPA DE SKILLS
+**CORE SKILLS (essenciais):**
+- Programação em Python (Pandas, NumPy, Scikit-learn)  
+- Estatística e probabilidade aplicadas  
+- SQL para manipulação de bancos de dados  
 
-Vou montar agora seu plano completo personalizado..."
+**NICE-TO-HAVE (complementares):**
+- Visualização de dados (Power BI, Tableau, Matplotlib, Seaborn)  
+- Noções de Big Data (Spark, Hadoop)  
 
+**FERRAMENTAS E TECNOLOGIAS:**
+- Python  
+- SQL  
+- Power BI / Tableau  
 
-## 📦 GERAR PLANO COMPLETO
+---
 
-(use exatamente este formato)
+### 📅 ROADMAP DE 90 DIAS
+**ADAPTADO PARA: 3 horas/semana (menos de 5h → foco no essencial, prazos estendidos)**
 
-🧩 VISÃO DO DIA A DIA
+**MÊS 1 - FUNDAMENTOS**  
+- Semana 1-2: lógica de programação em Python + estatística descritiva  
+- Semana 3-4: manipulação de dados com Pandas + SQL básico  
 
-Como é o trabalho de um(a) (CARREIRA):
+**MÊS 2 - PRÁTICA**  
+- Semana 5-6: scripts de análise de datasets simples + visualização com Matplotlib/Seaborn  
+- Semana 7-8: introdução ao Machine Learning (regressão, classificação simples)  
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+**MÊS 3 - PORTFÓLIO E PREPARAÇÃO**  
+- Semana 9-10: projeto completo de análise de dados + dashboards em Power BI/Tableau  
+- Semana 11-12: documentação no GitHub + simulação de entrevistas técnicas  
 
-🧠 MAPA DE SKILLS
+---
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+### 🚀 PROJETO DE PORTFÓLIO
+**PROJETO:** Análise de Dados de Vendas  
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+**O QUE FAZER:**  
+Explorar dataset público, identificar padrões de consumo e criar visualizações + modelo de previsão.  
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+**ENTREGÁVEIS:**  
+- Notebook Python com análise exploratória  
+- Dashboard interativo (Power BI ou Tableau)  
+- Relatório com insights e recomendações  
 
-📅 ROADMAP DE 90 DIAS
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Código limpo e comentado  
+- Visualizações claras e interpretáveis  
+- Conclusões bem estruturadas  
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+**DICA:** Use datasets do Kaggle ou Google Dataset Search.  
 
-MÊS 1 - FUNDAMENTOS
+**Cronograma semanal do projeto:**  
+- Semana 9: escolher dataset + README inicial no GitHub  
+- Semana 10: limpeza e análise exploratória  
+- Semana 11: visualizações + modelo de previsão inicial  
+- Semana 12: dashboard final + relatório + repositório completo  
 
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+### 💬 ROTEIRO DE ENTREVISTAS
+**Pergunta 1:** O que é regressão linear?  
+**Resposta:** Modelo estatístico para prever valores contínuos com base em variáveis independentes.  
 
-MÊS 2 - PRÁTICA
+**Pergunta 2:** Diferença entre dados estruturados e não estruturados?  
+**Resposta:** Estruturados seguem formato tabular (SQL); não estruturados são textos, imagens, vídeos.  
 
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 3:** Como tratar dados faltantes?  
+**Resposta:** Remover linhas, substituir por média/mediana ou usar algoritmos que lidam com missing values.  
 
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 4:** Explique um projeto de dados que você fez.  
+**Resposta:** Dataset de vendas → limpeza → visualizações → regressão linear → insights documentados no GitHub.  
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+**Pergunta 5:** O que é overfitting?  
+**Resposta:** Quando o modelo aprende demais os dados de treino e perde capacidade de generalização.  
 
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+### 🎓 TRILHA DIO RECOMENDADA
+**TRILHA:** Bootcamp "Formação Cientista de Dados" (DIO)  
 
-🚀 PROJETO DE PORTFÓLIO
+**POR QUE ESSA TRILHA:**  
+Cobre Python, SQL, estatística e machine learning, alinhado ao roadmap.  
 
-PROJETO: (nome do projeto)
+**PRÓXIMOS PASSOS:**  
+1. Acesse [dio.me](https://dio.me)  
+2. Busque por "Formação Cientista de Dados"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
 
-O QUE FAZER:
-(descrição clara do escopo)
+---
 
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+### 🛠️ CHECKLIST DE FERRAMENTAS E RECURSOS
+- Semana 9: Kaggle, Google Dataset Search, GitHub  
+- Semana 10: Python + Jupyter Notebook, Pandas, NumPy  
+- Semana 11: Matplotlib, Seaborn, Scikit-learn, Power BI/Tableau  
+- Semana 12: GitHub (README, commits), Markdown, Google Docs/Notion  
 
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+---
 
-DICA: (dica prática para executar o projeto)
+═══════════════════════════════════════════════════════════════
 
-💬 ROTEIRO DE ENTREVISTAS
-
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-🎓 TRILHA DIO RECOMENDADA
-
-TRILHA: (nome específico da trilha/bootcamp DIO)
-
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
-
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
-
-
-✨ Seu plano está pronto!
-
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
